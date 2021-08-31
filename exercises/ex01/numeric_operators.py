@@ -1,4 +1,4 @@
-"""This program performs various simple mathematical opperations with two inputed integers"""
+"""This program performs various simple mathematical opperations with two inputed integers."""
 
 __author__ = "730398806"
 

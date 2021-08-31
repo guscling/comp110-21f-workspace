@@ -1,4 +1,4 @@
-"""This program performs simple boolean operations on inputed integers"""
+"""This program performs simple boolean operations on inputed integers."""
 
 __author__ = "730398806"
 
